@@ -1,0 +1,18 @@
+A Set is a Collection that cannot contain duplicate elements
+
+add() -  TO add an elements to the collection
+clear() - Remove all objects from the collection
+contains() - Returns True if object is present in the collection
+isEmpty() - Returns true if collections has no elements
+remove()-Remove specific objects from the collection
+size() - returns the number of elements in the collection
+
+
+HashSet - A Set is a Collection that cannot contain duplicate elements
+
+basic functions used in hash set is
+
+add()
+
+
+
